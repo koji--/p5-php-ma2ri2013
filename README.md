@@ -8,6 +8,11 @@ PHP::matsuri2013 - App for LT on PHP matsuri 2013 in sapporo, JAPAN.
     use PHP::matsuri2013;
     my $app = PHP::matsuri2013->psgi_app;
 
+    # run
+    $ ./init.sh
+
+    # and access your blowser to localhost:5000
+
 # DESCRIPTION
 
 PHP::matsuri2013 is app for LT on PHP matsuri 2013.
@@ -21,4 +26,4 @@ it under the same terms as Perl itself.
 
 # AUTHOR
 
-Koji Takiguchi <kojiel at gmail.com>
+Koji Takiguchi <kojiel＠gmail.com>
