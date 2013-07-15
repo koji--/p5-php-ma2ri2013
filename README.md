@@ -22,4 +22,3 @@ it under the same terms as Perl itself.
 # AUTHOR
 
 Koji Takiguchi <kojiel at gmail.com>
-* 
